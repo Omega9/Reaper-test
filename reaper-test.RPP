@@ -1,0 +1,161 @@
+<REAPER_PROJECT 0.1 "4.77" 1425209306
+  UNDO_FTS 1425208828
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  PANMODE 3
+  CURSOR 0
+  ZOOM 8.84106749 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 8 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 3
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    bDNwbUABAAABAAAA//////////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.425704 0.181224
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "D:\Audio\Software\REAPER\Things\Custom-Metronome\ZOOM\Bell\subsequent.wav" "D:\Audio\Software\REAPER\Things\Custom-Metronome\ZOOM\Bell\subsequent.wav"
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 1
+    REC 1 4224 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 61 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 449 83 515 451
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+        AAAAPwAAEAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+      WAK 0
+      BYPASS 0 0 0
+      <JS Guitar/amp-model ""
+        "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B09B0D14-098D-4454-9FAF-513822014E8C}
+      WAK 0
+      BYPASS 0 0 0
+      <JS Guitar/chorus ""
+        15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+      WAK 0
+      BYPASS 0 0 0
+      <JS witti/pan_pong_sync ""
+        0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0A7AE077-139F-483A-B91D-95496C444C7F}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1P5eWlj4AAAA/AACAPwAAAAAAAIA/
+        AAAAAAAAEAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65625850-0BE6-468E-BDCC-197B3EC582BB}
+      WAK 0
+    >
+  >
+  <EXTENSIONS
+    <ReScore
+        showScoreView 0
+        shortestNote 16
+        key 0
+        auxiliarySettings 
+    >
+  >
+>
