@@ -45,3 +45,4 @@ Temporary Items
 # Reaper
 *.reapeaks
 *.rpp-bak
+/.project

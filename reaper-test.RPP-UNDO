@@ -3885,4 +3885,3066 @@ CURPOS 80
 >
 # INCR
 # INCR
+# INCR
+CURPOS 142
+
+<UINF 80
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME ""
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 1
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 81
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 82
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/yXY+PgAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 83
+  WNDRECT 341 183 716 247
+  SHOW 3
+  LASTSEL 2
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.330000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 84
+  WNDRECT 341 183 716 247
+  SHOW 3
+  LASTSEL 2
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 1.000000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 85
+  WNDRECT 341 183 716 247
+  SHOW 3
+  LASTSEL 2
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.690000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 86
+  WNDRECT 341 183 716 247
+  SHOW 3
+  LASTSEL 2
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 87
+  WNDRECT 341 183 716 187
+  SHOW 4
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 41.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 88
+  WNDRECT 341 183 716 187
+  SHOW 4
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 59.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 89
+  WNDRECT 341 183 716 187
+  SHOW 4
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 56.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 90
+  WNDRECT 341 183 716 187
+  SHOW 4
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 91
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME ""
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 92
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 93
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 1
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 94
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    PANMODE 3
+    TEMPO 120 4 4
+    PLAYRATE 1 0 0.25 4
+    SELECTION 0 0
+    SELECTION2 0 0
+    MASTER_SEL 0
+    <EXTENSIONS
+      <SWSAUTOCOLOR
+        {00000000-0000-0000-0000-000000000000} 0 ""
+        {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D} 0 ""
+        {20B8C7E2-E8D7-448F-A043-C20ACD183640} 0 ""
+      >
+    >
+  >
+>
+<UINF 95
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+    <TRACK {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 1
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 96
+  WNDRECT 341 183 716 187
+  SHOW 4
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 97
+  WNDRECT 341 183 716 187
+  SHOW 0
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 98
+  WNDRECT 341 183 716 187
+  SHOW 0
+  LASTSEL 3
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 33975368 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 16182264 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 99
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 0 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+    <TRACK {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 1
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 100
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 0 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+    <TRACK {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 101
+  <REAPER_PROJECT 0.1 "5.0pre12" 0
+    MASTERAUTOMODE 0
+    MASTERTRACKHEIGHT 0
+    MASTERPEAKCOL 16576
+    MASTERMUTESOLO 0
+    MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+    MASTERHWOUT 0 0 1 0 0 0 0 -1
+    MASTER_NCH 2 2
+    MASTER_VOLUME 1 0 -1 -1 1
+    MASTER_FX 1
+    MASTER_SEL 0
+    <MASTERPLAYSPEEDENV
+      ACT 0
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+    >
+    <TEMPOENVEX
+      ACT 0
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 1 -1 -1
+    >
+    <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      NAME 1
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 0 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+    <TRACK {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      NAME 2
+      PEAKCOL 16576
+      BEAT -1
+      AUTOMODE 0
+      VOLPAN 1 0 -1 -1 1
+      MUTESOLO 0 0 0
+      IPHASE 0
+      ISBUS 0 0
+      BUSCOMP 0 0
+      SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+      FREEMODE 0
+      SEL 0
+      REC 1 4672 1 0 0 0 0
+      VU 2
+      TRACKHEIGHT 61 0
+      INQ 0 0 0 0.5 100 0 0 100
+      NCHAN 2
+      FX 1
+      TRACKID {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+      PERF 0
+      MIDIOUT -1
+      MAINSEND 1 0
+    >
+  >
+>
+<UINF 102
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP7pJLD8AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 103
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP3E9Kj8AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 104
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6z/czP3E9Kj8AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 105
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 106
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 107
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz0AAAAAVOMFPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 108
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz0IrBw/VOMFPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 109
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/VOMFPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 110
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/TDdJPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 111
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/rkdBPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 112
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/QmBFPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 113
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/ZDs/PwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 114
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/Gy9dPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 115
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/w/VoPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 116
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/eelmPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 117
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/bxJjPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 118
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz01Xjo/VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 119
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz3TTaI+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 120
+  WNDRECT 341 183 557 451
+  SHOW 1
+  LASTSEL 0
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 121
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 0.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 122
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Blackface Twin.wav" 0.000000 1.000000 1.000000 90.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 123
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Mesa Boogie Clean - Matchless Chieftain.wav" 0.000000 1.000000 1.000000 181.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 124
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Vox AC30 Non Top Boost - Vox AC30.wav" 0.000000 1.000000 1.000000 119.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 125
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Fender Deluxe - Tweed Champ.wav" 0.000000 1.000000 1.000000 180.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 126
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Matchless Chieftain.wav" 0.000000 1.000000 1.000000 226.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 127
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 128
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JCM800 - Matchless Chieftain.wav" 0.000000 1.000000 1.000000 180.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 129
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Fender Deluxe - Marshall Stock 70.wav" 0.000000 1.000000 1.000000 173.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 130
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Fender Bassman - Tweed Champ.wav" 0.000000 1.000000 1.000000 215.000000 512.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 131
+  WNDRECT 341 183 716 259
+  SHOW 2
+  LASTSEL 1
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Dumble Overdrive Special - Tweed Deluxe.wav" 0.000000 1.000000 1.000000 79.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 132
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 133
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwXFHz4AAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 134
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAgD8AAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UINF 135
+  WNDRECT 341 183 644 330
+  SHOW 5
+  LASTSEL 4
+  DOCKED 0
+  BYPASS 0 0 0
+  FXID_NEXT {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+  <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 36663456 ""
+    eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+    AAAAPwAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {B09B0D14-098D-4454-9FAF-513822014E8C}
+  <JS Guitar/amp-model ""
+    "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+  <JS Guitar/chorus ""
+    15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {0A7AE077-139F-483A-B91D-95496C444C7F}
+  <JS witti/pan_pong_sync ""
+    0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  >
+  FLOATPOS 0 0 0 0
+  BYPASS 0 0 0
+  FXID_NEXT {65625850-0BE6-468E-BDCC-197B3EC582BB}
+  <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 36702232 ""
+    OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAP10aPzwAAIA/
+    AAAAAAAAEAAAAA==
+  >
+  FLOATPOS 0 0 0 0
+>
+<UENT `--- Session loaded ---` 1425249719 36 9
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 79
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Change Track Recording Parameters` 1425249726 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 79
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: ReaVerbate` 1425249742 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 81
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: ReaVerbate` 1425249744 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 82
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: ReaVerbate` 1425249745 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 81
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Chorus` 1425249752 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 83
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Chorus` 1425249754 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 84
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Chorus` 1425249755 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 85
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Chorus` 1425249756 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 86
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Read info..` 1425249762 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 87
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Read info..` 1425249763 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 88
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Read info..` 1425249764 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 89
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Edit FX parameter: Track 1: Read info..` 1425249767 36 80
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Remove Track Selection` 1425249773 36 91
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Change Track Name` 1425249773 36 92
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Change Track Selection` 1425249775 36 93
+  ITEMCFG 4
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXENVCFG 0
+  FXENVCFG 52
+  RECFXCFG 0
+>
+<UENT `Duplicate Tracks` 1425249776 94 95
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXCFG 96
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Close FX chain: Track 2 1` 1425249778 94 95
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 90
+  FXCFG 97
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Close FX chain: Track 1 1` 1425249779 94 95
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 97
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Toggle Track Record Arming` 1425249781 94 99
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 97
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Remove Track Selection` 1425249787 94 100
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 97
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Change Track Name` 1425249787 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 97
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249793 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 102
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249794 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 103
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249795 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 104
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249797 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 105
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249802 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 106
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249805 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 107
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249807 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 108
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249808 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 109
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249809 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 110
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249810 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 111
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249810 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 112
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249811 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 111
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249812 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 113
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249813 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 111
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249816 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 114
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249817 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 115
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249817 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 116
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249818 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 117
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249820 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 116
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249823 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 118
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249828 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 119
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaSynth` 1425249829 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 120
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249833 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 121
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249834 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 122
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249839 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 123
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249841 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 124
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249843 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 125
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249845 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 126
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249846 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 127
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249849 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 128
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249851 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 129
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249852 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 130
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249854 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 131
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249855 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 124
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249858 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 123
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249864 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 127
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: Convolution Amp/Cab Modeler` 1425249868 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 132
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaVerbate` 1425249873 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 133
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaVerbate` 1425249875 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 134
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+<UENT `Edit FX parameter: Track 2 2: ReaVerbate` 1425249880 94 101
+  ITEMCFG 4
+  ITEMCFG 4
+  FREEZECFG 0
+  FREEZECFG 0
+  FXCFG 0
+  FXCFG 98
+  FXCFG 135
+  FXENVCFG 0
+  FXENVCFG 52
+  FXENVCFG 52
+  RECFXCFG 0 0
+>
+# INCR
+# INCR
 >
