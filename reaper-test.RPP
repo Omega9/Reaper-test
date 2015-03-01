@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "4.77" 1425209306
+<REAPER_PROJECT 0.1 "5.0pre12" 1425249893
   UNDO_FTS 1425208828
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -51,6 +51,7 @@
     FREQ 800 1600 1
     BEATLEN 4
     SAMPLES "D:\Audio\Software\REAPER\Things\Custom-Metronome\ZOOM\Bell\subsequent.wav" "D:\Audio\Software\REAPER\Things\Custom-Metronome\ZOOM\Bell\subsequent.wav"
+    PATTERN 2863311530 2863311529
   >
   GLOBAL_AUTO -1
   TEMPO 120 4 4
@@ -61,7 +62,7 @@
   MASTERTRACKHEIGHT 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -75,7 +76,7 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1
+    ACT 0
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -84,7 +85,7 @@
   <PROJBAY
   >
   <TRACK {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D}
-    NAME ""
+    NAME 1
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -93,10 +94,10 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
-    REC 1 4224 1 0 0 0 0
+    SEL 0
+    REC 0 4672 1 0 0 0 0
     VU 2
     TRACKHEIGHT 61 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -107,9 +108,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 449 83 515 451
-      SHOW 1
-      LASTSEL 0
+      WNDRECT 341 183 716 187
+      SHOW 0
+      LASTSEL 3
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
@@ -135,14 +136,81 @@
       WAK 0
       BYPASS 0 0 0
       <JS witti/pan_pong_sync ""
-        0.000000 0.000000 100.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {0A7AE077-139F-483A-B91D-95496C444C7F}
       WAK 0
       BYPASS 0 0 0
       <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
-        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1P5eWlj4AAAA/AACAPwAAAAAAAIA/
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
+        AAAAAAAAEAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65625850-0BE6-468E-BDCC-197B3EC582BB}
+      WAK 0
+    >
+  >
+  <TRACK {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+    NAME 2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 1 4672 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 61 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {20B8C7E2-E8D7-448F-A043-C20ACD183640}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 341 183 644 330
+      SHOW 5
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
+        AAAAPwAAEAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7D1D4DF6-2F39-4640-82BA-6FD446C73F6D}
+      WAK 0
+      BYPASS 0 0 0
+      <JS Guitar/amp-model ""
+        "Marshall JTM45 - Blackface Deluxe.wav" 0.000000 1.000000 1.000000 70.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B09B0D14-098D-4454-9FAF-513822014E8C}
+      WAK 0
+      BYPASS 0 0 0
+      <JS Guitar/chorus ""
+        15.000000 1.000000 0.400000 0.700000 -6.000000 -6.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BF9EF487-ECC1-46DB-87CB-786C5EC5E317}
+      WAK 0
+      BYPASS 0 0 0
+      <JS witti/pan_pong_sync ""
+        0.000000 0.000000 45.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0A7AE077-139F-483A-B91D-95496C444C7F}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAP10aPzwAAIA/
         AAAAAAAAEAAAAA==
       >
       FLOATPOS 0 0 0 0
@@ -151,11 +219,10 @@
     >
   >
   <EXTENSIONS
-    <ReScore
-        showScoreView 0
-        shortestNote 16
-        key 0
-        auxiliarySettings 
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 ""
+      {5F1C6CE6-DC99-4C68-918D-0FC1D21DF98D} 0 ""
+      {20B8C7E2-E8D7-448F-A043-C20ACD183640} 0 ""
     >
   >
 >
