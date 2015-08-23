@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.0pre12" 1425250682
+<REAPER_PROJECT 0.1 "5.0" 1440289795
   UNDO_FTS 1425208828
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -13,7 +13,7 @@
   GRID 3199 8 1 8 1 0 0
   TIMEMODE 1 5 -1 30 0
   PANMODE 3
-  CURSOR 19
+  CURSOR 103.9734375
   ZOOM 8.84106749 0 0
   VZOOMEX 0
   USE_REC_CFG 0
@@ -113,7 +113,7 @@
       LASTSEL 3
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321
         eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6g8AKP4PAij4AAAAA1skPPr5whz0AAAAAAAAAPwAAgD+DwAo/
         AAAAPwAAEAAAAA==
       >
@@ -142,7 +142,7 @@
       FXID {0A7AE077-139F-483A-B91D-95496C444C7F}
       WAK 0
       BYPASS 0 0 0
-      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016
         OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAPwAAAAAAAIA/
         AAAAAAAAEAAAAA==
       >
@@ -278,12 +278,12 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 627 314 644 330
+      WNDRECT 627 314 568 451
       SHOW 0
-      LASTSEL 4
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321
         eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3vLfyToXt9E6hxbZPnE9Kj8AAAAA1skPPr5whz17FK4+VVVlPwAAgD+4HsU+
         AAAAPwAAEAAAAA==
       >
@@ -312,7 +312,7 @@
       FXID {0A7AE077-139F-483A-B91D-95496C444C7F}
       WAK 0
       BYPASS 0 0 0
-      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016
         OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1Pzxolj4AAAA/AACAP10aPzwAAIA/
         AAAAAAAAEAAAAA==
       >
@@ -329,7 +329,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {B9727C48-F146-4429-8EED-6446ADE15FCA}
       IID 2
       NAME "02-2-Recorded MIDI"
@@ -543,6 +543,241 @@
         E 324 90 48 0b
         E 367 90 48 00
         E 1512 b0 7b 00
+        GUID {658BA26A-2037-432C-94CA-E211230F1965}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 118 0
+        COLORMAP "D:\Audio\Software\REAPER\Things\Colormaps\midi_note_colormap.png"
+        CFGEDITVIEW 0 0.006864 38 12 0 0 0 0 0
+        KEYSNAP 0 0 120304506607 0 Diminished
+        TRACKSEL 0 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.5 63 0 927 512 0 0 0 0 0 0 0 1 0 -0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {FD1E4DDC-1D6C-4FFF-BB03-6E45E5A46A42}
+      IID 2
+      NAME "02-2-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D694E104-090D-4DD5-92F3-EF03BC52EE63}
+      RECPASS 2
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {10E6640E-47BC-46DD-BAD1-F5E059A84D78}
+        E 1902 90 48 36
+        E 455 90 48 00
+        E 18 90 4f 27
+        E 448 90 4d 45
+        E 5 90 4f 00
+        E 467 90 4d 00
+        E 12 90 4a 48
+        E 524 90 4c 42
+        E 15 90 4a 00
+        E 231 90 4c 00
+        E 2550 90 53 1b
+        E 492 90 53 00
+        E 124 90 4f 06
+        E 531 90 51 42
+        E 28 90 4f 00
+        E 410 90 51 00
+        E 1841 90 4f 2b
+        E 408 90 4f 00
+        E 139 90 48 34
+        E 416 90 48 00
+        E 10 90 4a 42
+        E 395 90 4a 00
+        E 47 90 4c 36
+        E 404 90 4c 00
+        E 59 90 4d 49
+        E 297 90 4d 00
+        E 1600 90 56 48
+        E 409 90 51 35
+        E 137 90 56 00
+        E 340 90 51 00
+        E 8 90 47 39
+        E 535 90 47 00
+        E 27 90 53 1a
+        E 35 90 51 24
+        E 204 90 51 00
+        E 44 90 53 00
+        E 159 90 48 31
+        E 379 90 48 00
+        E 29 90 4a 41
+        E 569 90 4f 3e
+        E 31 90 4a 00
+        E 364 90 4f 00
+        E 2108 90 4a 1f
+        E 498 90 4d 3b
+        E 58 90 4a 00
+        E 273 90 53 3a
+        E 6 90 4d 00
+        E 489 90 4c 34
+        E 95 90 53 00
+        E 446 90 4f 34
+        E 19 90 4c 00
+        E 500 90 4f 00
+        E 530 90 56 4f
+        E 458 90 56 00
+        E 2860 90 48 33
+        E 463 90 48 00
+        E 163 90 4f 06
+        E 332 90 4f 00
+        E 37 90 4a 31
+        E 475 90 4a 00
+        E 37 90 4d 4d
+        E 252 90 4d 00
+        E 3549 90 4f 31
+        E 418 90 4f 00
+        E 72 90 4d 47
+        E 483 90 4d 00
+        E 112 90 4b 2b
+        E 359 90 4b 00
+        E 51 90 4a 42
+        E 318 90 4a 00
+        E 135 90 48 29
+        E 385 90 48 00
+        E 3770 90 46 2a
+        E 475 90 46 00
+        E 54 90 48 3b
+        E 430 90 48 00
+        E 24 90 4a 42
+        E 362 90 4a 00
+        E 1166 90 4f 42
+        E 395 90 4f 00
+        E 549 90 4d 4d
+        E 301 90 4d 00
+        E 4510 90 50 3d
+        E 383 90 50 00
+        E 1516 90 48 35
+        E 493 90 48 00
+        E 41 90 4d 3a
+        E 449 90 4d 00
+        E 20 90 4f 3c
+        E 326 90 4f 00
+        E 2506 90 4b 34
+        E 922 90 4b 00
+        E 474 90 4c 44
+        E 288 90 4c 00
+        E 1718 90 49 18
+        E 460 90 49 00
+        E 22 90 4a 39
+        E 419 90 4b 1e
+        E 8 90 4a 00
+        E 555 90 4b 00
+        E 6 90 4c 3a
+        E 302 90 4c 00
+        E 114 90 48 33
+        E 439 90 48 00
+        E 12 90 4f 39
+        E 457 90 4f 00
+        E 55 90 4d 3a
+        E 398 90 4d 00
+        E 2485 90 53 34
+        E 432 90 53 00
+        E 17 90 4f 2d
+        E 387 90 4f 00
+        E 19 90 48 30
+        E 481 90 4a 3e
+        E 110 90 48 00
+        E 422 90 4d 3b
+        E 45 90 4a 00
+        E 488 90 4d 00
+        E 22 90 4b 20
+        E 377 90 4b 00
+        E 28 90 49 36
+        E 478 90 49 00
+        E 16 90 4c 40
+        E 373 90 4c 00
+        E 2026 90 45 3d
+        E 446 90 45 00
+        E 1954 90 46 39
+        E 453 90 46 00
+        E 46 90 47 3a
+        E 471 90 47 00
+        E 25 90 48 3d
+        E 928 90 48 00
+        E 2459 90 4f 35
+        E 408 90 4f 00
+        E 31 90 48 34
+        E 538 90 4b 35
+        E 80 90 48 00
+        E 402 90 4d 21
+        E 32 90 4b 00
+        E 471 90 4c 3b
+        E 0 90 4d 00
+        E 519 90 4c 00
+        E 1753 90 46 2f
+        E 458 90 46 00
+        E 93 90 48 1d
+        E 12 90 47 15
+        E 176 90 48 00
+        E 405 90 47 00
+        E 2724 90 46 1c
+        E 547 90 46 00
+        E 31 90 47 20
+        E 465 90 4c 3a
+        E 39 90 47 00
+        E 356 90 49 3f
+        E 12 90 4c 00
+        E 453 90 4b 36
+        E 2 90 49 00
+        E 523 90 4b 00
+        E 157 90 4f 18
+        E 330 90 48 2e
+        E 12 90 4f 00
+        E 204 90 48 00
+        E 2100 90 4c 27
+        E 483 90 4c 00
+        E 23 90 51 3a
+        E 374 90 51 00
+        E 27 90 4d 4f
+        E 524 90 4b 3b
+        E 11 90 4d 00
+        E 377 90 4b 00
+        E 5 90 49 2f
+        E 521 90 49 00
+        E 45 90 4c 40
+        E 328 90 4c 00
+        E 635 90 47 36
+        E 505 90 47 00
+        E 162 90 51 22
+        E 164 90 51 00
+        E 671 90 4d 0f
+        E 406 90 4d 00
+        E 449 90 53 29
+        E 452 90 53 00
+        E 756 90 4f 04
+        E 139 90 4f 00
+        E 860 90 51 32
+        E 370 90 51 00
+        E 952 90 59 04
+        E 325 90 59 00
+        E 66 90 56 32
+        E 345 90 56 00
+        E 1 90 54 44
+        E 145 90 54 00
+        E 641 90 48 28
+        E 25 90 4a 22
+        E 239 90 4a 00
+        E 9 90 48 00
+        E 292 90 51 38
+        E 440 90 51 00
+        E 324 90 48 0b
+        E 367 90 48 00
+        E 0 b0 7b 00
         GUID {658BA26A-2037-432C-94CA-E211230F1965}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 5
